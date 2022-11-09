@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <>
-      <h1>Lista de Presença</h1>
-      <input type="text" placeholder="Digite um nome..." />
-      <button type="button">Adicionar</button>
+      <h1>Attendance list</h1>
+      <input type="text" placeholder="Enter a name..." />
+      <button type="button">Add</button>
     </>
   );
 }
