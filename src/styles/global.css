@@ -4,3 +4,12 @@
   border: 0;
   box-sizing: border-box;
 }
+
+body,
+input,
+button {
+  font-family: "Roboto", sans-serif;
+  font-family: 16px;
+
+  --webkit-font-smoothing: antialiased;
+}
