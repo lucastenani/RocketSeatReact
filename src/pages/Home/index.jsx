@@ -1,6 +1,6 @@
 import "./style.css";
 
-export default function Home() {
+export function Home() {
   return (
     <>
       <h1>Attendance list</h1>
